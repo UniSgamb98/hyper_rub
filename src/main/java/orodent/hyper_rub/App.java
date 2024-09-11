@@ -10,6 +10,7 @@ public class App extends Application {
     @Override
     public void start(Stage stage) {
        login();
+       //aaaass
     }
 
     public void login(){
