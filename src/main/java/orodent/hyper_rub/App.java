@@ -6,8 +6,6 @@ import org.controlsfx.dialog.LoginDialog;
 import orodent.hyper_rub.framework.scenes.Scenes;
 import orodent.hyper_rub.utils.GlobalContext;
 
-import java.io.IOException;
-
 public class App extends Application {
     @Override
     public void start(Stage stage) {
