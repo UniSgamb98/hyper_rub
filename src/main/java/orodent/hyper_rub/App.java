@@ -1,8 +1,6 @@
 package orodent.hyper_rub;
 
 import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Scene;
 import javafx.stage.Stage;
 import org.controlsfx.dialog.LoginDialog;
 import orodent.hyper_rub.framework.scenes.Scenes;
@@ -12,7 +10,7 @@ import java.io.IOException;
 
 public class App extends Application {
     @Override
-    public void start(Stage stage) throws IOException {
+    public void start(Stage stage) {
        login();
     }
 

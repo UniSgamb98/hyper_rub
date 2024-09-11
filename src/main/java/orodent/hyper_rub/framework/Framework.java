@@ -12,7 +12,6 @@ import orodent.hyper_rub.utils.DBManager;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Objects;
 
 public class Framework {
     private Stage stage;
